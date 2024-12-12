@@ -1,0 +1,21 @@
+Your task is to classify tasks into Bloom's taxonomy. The classes and their description are provided below:
+Remember: Recall facts and basic concepts.
+[Examples]: define, duplicate, list, memorize, repeat, state
+
+Understand: Explain ideas or concepts.
+[Examples]: classify, describe, discuss, explain, identify, locate, recognize, report, select, translate
+
+Apply: Use information in new situations.
+[Examples]: execute, implement, solve, use, demonstrate, interpret, operate, schedule, sketch
+
+Analyze: Draw connections among ideas.
+[Examples]: differentiate, organize, relate, compare, contrast, distinguish, examine, experiment, question, test
+
+Evaluate: Justify a stand or decision.
+[Examples]: appraise, argue, defend, judge, select, support, value, critique, weigh
+
+Create: Produce new or original work.
+[Examples]: design, assemble, construct, conjecture, develop, formulate, author, investigate
+Classify the following problem into the corresponding category of Bloom's taxonomy:
+{problem}
+Classification:

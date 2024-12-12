@@ -1,0 +1,19 @@
+Benchmark / Dataset,Subtask,Human,claude3,gpt4,llama3
+AGIEval,aqua-rat,Procedural,Conceptual,Procedural,Procedural
+AGIEval,gaokao-english,Conceptual,Conceptual,Factual,Factual
+AGIEval,logiqa-en,Conceptual,Conceptual,Procedural,Procedural
+AGIEval,lsat-ar,Procedural,Conceptual,Procedural,Procedural
+AGIEval,lsat-lr,Factual,Conceptual,Metacognitive,Conceptual
+AGIEval,math,Procedural,Procedural,Procedural,Procedural
+AGIEval,sat-en,Conceptual,Conceptual,Conceptual,Factual
+AGIEval,sat-math,Procedural,Procedural,Procedural,Procedural
+ARC-Challenge,N/A,Conceptual,Conceptual,Conceptual,Factual
+BoolQ,N/A,Factual,Factual,Factual,Factual
+DROP,N/A,Factual,Factual,Factual,Factual
+GPQA,N/A,Procedural,Conceptual,Procedural,Factual
+GSM8K,N/A,Procedural,Procedural,Procedural,Procedural
+HumanEval,N/A,Procedural,Procedural,Procedural,Procedural
+QuAC,N/A,Factual,Factual,Factual,Factual
+SQuAD,N/A,Factual,Factual,Factual,Factual
+TriviaQA,N/A,Factual,Factual,Factual,Factual
+Winogrande,N/A,Conceptual,Factual,Factual,Factual

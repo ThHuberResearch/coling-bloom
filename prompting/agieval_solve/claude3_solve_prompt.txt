@@ -1,0 +1,2 @@
+Solve the following task. Solve the problem by thinking step-by-step.
+{task}

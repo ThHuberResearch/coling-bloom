@@ -1,0 +1,12 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+Your task is to classify tasks into the Knowledge dimension of Bloom's taxonomy. The classes and their description are provided below:
+Metacognitive: Knowledge of cognition in general as well as awareness and knowledge of one's own cognition.
+
+Procedural: How to do something, methods of inquiry, and criteria for using skills, algorithms, techniques, and methods.
+
+Conceptual: The interrelationships among the basic elements within a larger structure that enable them to function together.
+
+Factual: The basic elements students must know to be acquainted with a discipline or solve problems in it.<|eot_id|><|start_header_id|>user<|end_header_id|>
+Classify the following problem into the corresponding category of Bloom's taxonomy:
+{problem}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+Classification:

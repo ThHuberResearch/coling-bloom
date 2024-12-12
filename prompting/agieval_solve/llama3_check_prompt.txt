@@ -1,0 +1,14 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are given both a task with its intended solution, as well as the solution by a student. Your task is to evaluate whether the student solved the task correctly. Respond with @Yes@ if it was solved correctly, and with @No@ if it was not.<|eot_id|><|start_header_id|>user<|end_header_id|>
+[Task]
+{task}
+[/Task]
+[Intended Solution]
+{solution}
+[/Intended Solution]
+-----
+[Student Solution]
+{student_solution}
+[/Student Solution]
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+@

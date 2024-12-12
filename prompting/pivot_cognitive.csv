@@ -1,0 +1,19 @@
+Benchmark / Dataset,Subtask,Human,claude3,gpt4,llama3
+AGIEval,aqua-rat,Apply,Apply,Apply,Apply
+AGIEval,gaokao-english,Understand,Understand,Understand,Understand
+AGIEval,logiqa-en,Understand,Analyze,Analyze,Analyze
+AGIEval,lsat-ar,Analyze,Analyze,Analyze,Analyze
+AGIEval,lsat-lr,Understand,Analyze,Evaluate,Analyze
+AGIEval,math,Apply,Analyze,Apply,Apply
+AGIEval,sat-en,Understand,Understand,Understand,Understand
+AGIEval,sat-math,Apply,Apply,Apply,Apply
+ARC-Challenge,N/A,Understand,Analyze,Analyze,Analyze
+BoolQ,N/A,Understand,Remember,Remember,Remember
+DROP,N/A,Understand,Remember,Remember,Remember
+GPQA,N/A,Analyze,Analyze,Apply,Analyze
+GSM8K,N/A,Apply,Apply,Apply,Apply
+HumanEval,N/A,Apply,Apply,Apply,Apply
+QuAC,N/A,Understand,Remember,Remember,Remember
+SQuAD,N/A,Understand,Remember,Remember,Remember
+TriviaQA,N/A,Understand,Remember,Remember,Remember
+Winogrande,N/A,Understand,Understand,Understand,Understand

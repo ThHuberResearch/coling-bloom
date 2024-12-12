@@ -1,0 +1,28 @@
+Your task is to classify tasks into the knowledge dimension of Bloom's taxonomy. The classes and their description are provided below:
+
+[Factual]: Factual knowledge includes terms, locations, and other listable knowledge. This kind of knowledge often serves as a base for more advanced knowledge.
+[Conceptual]: Conceptual knowledge includes ways of organizing information and ideas, including knowledge of theories and principles. This type of knowledge helps you structure factual knowledge, as well as understand the relationships among information and ideas.
+[Procedural]: Procedural knowledge includes knowledge of techniques and methods, as well as when to use those techniques. This type of knowledge tends to be subject-specific, so, for example, different majors will use different procedures for identifying and solving problems.
+[Metacognitive]: Metacognitive knowledge is sometimes described as “thinking about thinking.” This kind of knowledge involves your ability to take a step back and understand how you think and learn, which is why it’s considered abstract knowledge. You will often be asked to do reflective work in college, and every time you are explaining how you know what you know, you’re practicing metacognition.
+
+Examples:
+[Task]: I have a flute, a piano, a trombone, four stoves, a violin, an accordion, a clarinet, a drum, two lamps, and a trumpet. How many musical instruments do I have?
+[Classification]: Factual
+[Explanation]: You need to know, based on the words, which of them are musical instruments. You can not simply infer the correct answer, you need the factual knowledge of what the words mean and which ones are musical instruments, and then count them.
+
+[Task]: Find a movie similar to Batman, The Mask, The Fugitive, Pretty Woman: Options: (A) The Front Page (B) Maelstrom (C) The Lion King (D) Lamerica
+[Classification]: Conceptual
+[Explanation]: You need to understand the relation between the movies to solve the problem. Because it's complex and not simply fact-based the classification is not Factual. If the task was 'Which of these movies had made a similar amount of money?' then it would be Factual.
+
+[Task]: ((-1 + 2 + 9 * 5) - (-2 + -4 + -4 * -7)) =
+[Classification]: Procedural
+[Explanation]: You need to know how to solve this equation. To do so, you need to know the order of operations, how to apply them and then actually apply them.
+
+[Task]: Explain how you know what you know.
+[Classification]: Metacognitive
+[Explanation]: The task is asking you to reflect on your own knowledge and how you came to know it. This is a metacognitive task because it's asking you to think about your own thinking.
+
+
+Classify the following problem into the corresponding category of Bloom's taxonomy:
+[Task]: {problem}
+[Classification]:
